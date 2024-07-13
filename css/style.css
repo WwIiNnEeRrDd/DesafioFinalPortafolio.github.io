@@ -2,7 +2,7 @@ body{
     background-color: #9fa4a9;
 }
 .presentacion{
-    background-image: url('/img/backgroundimg.avif');
+    background-image: url('../img/backgroundimg.avif');
     background-size: cover; /* O 'contain' dependiendo de cómo quieras que se ajuste la imagen */
     background-repeat: no-repeat;
     background-position: center;
