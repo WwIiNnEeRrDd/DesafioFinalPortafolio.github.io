@@ -1,0 +1,22 @@
+body{
+    background-color: #9fa4a9;
+}
+.presentacion{
+    background-image: url('/img/backgroundimg.avif');
+    background-size: cover; /* O 'contain' dependiendo de cómo quieras que se ajuste la imagen */
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#educacion{
+    background-color: #9fa4a9;
+}
+.bg-educacion{
+    background-color: rgb(43, 41, 41);
+}
+#skills{
+    background-color: #9fa4a9;
+}
+.iconos a{
+    text-decoration: none;
+    color: #000;
+}
